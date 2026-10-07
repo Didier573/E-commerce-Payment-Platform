@@ -1,0 +1,10 @@
+{
+  "description": "Enables clients and merchants to manage products and securely process Mobile Money payments via an integrated e-commerce platform with shopping cart.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
